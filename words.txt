@@ -6,3 +6,6 @@ Skyrim
 Oblivion
 Morrowind
 Battlefield
+Zelda
+Mario
+Runescape
